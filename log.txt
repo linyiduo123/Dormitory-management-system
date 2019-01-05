@@ -1,0 +1,10 @@
+2018013 check in the bed2 of room 306 ———————— Sat Jan 05 02:22:56 CST 2019
+2018018 check in the bed3 of room 306 ———————— Sat Jan 05 02:23:25 CST 2019	
+2018014 check out the bed1 of room 303 ———————— Sat Jan 05 02:25:48 CST 2019
+lyd change the password from "1234" to "123" ———————— Sat Jan 05 02:29:19 CST 2019	
+A new account "yzw" is registered ———————— Sat Jan 05 02:34:21 CST 2019	
+lyd log in the system  ———————— Sat Jan 05 02:34:30 CST 2019	
+admin log in the system  ———————— Sat Jan 05 14:40:24 CST 2019	
+admin log in the system  ———————— Sat Jan 05 14:41:02 CST 2019	
+admin log in the system  ———————— Sat Jan 05 14:59:10 CST 2019	
+A new account "english" is registered ———————— Sat Jan 05 15:08:26 CST 2019	
